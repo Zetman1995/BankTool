@@ -20,7 +20,24 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
+
+
+/** 
+ * das ist ein Test für GIT 
+ * @author tsiob
+ *
+ */
+
+
+
+
  public class Test implements EntryPoint {
+	 
+	 int a = 2;
+	 int b = 3;
+	 
+	 
+	 
 	/**
 	 * The message displayed to the user when the server cannot be reached or
 	 * returns an error.
